@@ -3,10 +3,9 @@
   font-style:  normal;
   font-weight: 400;
   font-display: swap;
-  line-height: 26px;
   font-size: 16px;
   background: #2A2C2F;
-  max-width: 320px;
-  margin: 0 auto;
   color: #fff;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
