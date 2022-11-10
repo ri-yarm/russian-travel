@@ -1,4 +1,8 @@
 .places {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto;
+  gap: 61px 0;
   margin: 0 0 66px;
   padding: 0;
 }

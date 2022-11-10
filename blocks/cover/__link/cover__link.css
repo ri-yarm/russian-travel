@@ -6,11 +6,12 @@
   position: relative;
   box-sizing: border-box;
   display: flex;
-
-
+  flex-direction: column;
+  box-sizing: border-box;
   text-decoration: none;
   color: #fff;
   z-index: 0;
+  white-space: pre-line;
 }
 
 .cover__link::before {
