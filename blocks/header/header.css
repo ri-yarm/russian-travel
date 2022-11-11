@@ -1,7 +1,6 @@
 .header {
   padding: 16px 16px 0;
-  display: grid;
-  grid-template-columns: 5fr 1fr 1fr;
+  display: flex;
+  justify-content: space-between;
   align-items: center;
-  justify-items: end;
 }
