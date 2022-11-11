@@ -1,7 +1,9 @@
 .photo-grid {
-  margin: 0 16px 64px;
+  max-width: calc(100% - 16px * 2);
+  margin: 0 auto;
+  padding: 0 0 64px;
   display: grid;
   grid-auto-rows: auto;
   grid-auto-columns: 1fr;
-  gap: 13px 0;
+  gap: 12px 0;
 }

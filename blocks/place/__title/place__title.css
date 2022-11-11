@@ -1,7 +1,8 @@
 .place__title {
+  max-width: calc(100% - 16px * 2);
   font-weight: 900;
   font-size: 32px;
-  line-height: .7;
-  margin: 0 16px 32px;
+  line-height: 1.09;
+  margin: 0 auto 32px;
   padding: 0;
 }
