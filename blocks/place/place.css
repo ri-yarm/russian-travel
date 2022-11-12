@@ -2,5 +2,19 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: min-content;
+  gap: 32px 16px;
 }
 
+@media screen and (min-width: 768px) {
+  .place {
+    display: grid;
+    grid-template-columns: minmax(340px, 1fr) minmax(352px, 1fr);
+    /* grid-template-rows: auto; */
+    gap: 48px 28px;
+    max-width: calc(100% - 24px * 2);
+    margin: 0 auto;
+  }
+}

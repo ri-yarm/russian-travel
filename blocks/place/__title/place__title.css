@@ -1,8 +1,18 @@
 .place__title {
-  max-width: calc(100% - 16px * 2);
+  /* max-width: calc(100% - 16px * 2); */
   font-weight: 900;
   font-size: 32px;
   line-height: 1.09;
-  margin: 0 auto 32px;
+  margin: 0 16px;
   padding: 0;
+  white-space: pre-line;
+}
+
+@media screen and (min-width: 768px) {
+  .place__title {
+    font-size: 42px;
+    line-height: 1.1;
+    margin: 0;
+    padding: 0;
+  }
 }
