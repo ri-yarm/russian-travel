@@ -1,4 +1,11 @@
 .cover {
   margin: 0;
   padding: 0 0 64px;
+  width: 100%;
+}
+
+@media screen and (min-width: 768px) {
+  .cover {
+    padding: 0 0 88px;
+  }
 }

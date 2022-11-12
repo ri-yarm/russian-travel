@@ -5,7 +5,7 @@
   line-height: 1.09;
   margin: 0 16px;
   padding: 0;
-  white-space: pre-line;
+
 }
 
 @media screen and (min-width: 768px) {
@@ -14,5 +14,6 @@
     line-height: 1.1;
     margin: 0;
     padding: 0;
+    white-space: pre-line;
   }
 }
