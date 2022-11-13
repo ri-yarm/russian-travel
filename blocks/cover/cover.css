@@ -9,3 +9,14 @@
     padding: 0 0 88px;
   }
 }
+
+@media screen and (min-width: 1024px) {
+  .cover {
+    padding: 0 0 92px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .cover {
+  }
+}

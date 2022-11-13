@@ -10,3 +10,18 @@
     padding: 0 0 88px;
   }
 }
+
+@media screen and (min-width: 1024px) {
+  .intro {
+    max-width: 70%;
+    margin: 0 48px;
+    padding: 0 0 96px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .intro {
+    margin: 0 148px;
+    max-width: 55%;
+  }
+}

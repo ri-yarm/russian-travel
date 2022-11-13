@@ -13,3 +13,9 @@
     max-width: calc(100% - 24px * 2);
   }
 }
+
+@media screen and (min-width: 1024px) {
+  .lead__caption {
+    margin: 0;
+  }
+}

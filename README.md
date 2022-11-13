@@ -2,22 +2,29 @@
 
 ### Обзор
 * Интро
-* Figma
-* Картинки
+* Github pages
+* Макет figma
+* Технологии
 
 **Интро**
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
+Проект путешествия по России. Работа с адаптивом, макетом.
 
-**Figma**
+**Github pages**
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+* [Ссылка на Github pages](https://ri-yarm.github.io/russian-travel/)
 
-**Картинки**
+**Макет figma**
+  * [Ссылка на макет figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
-
-Удачи!
+***
+**Техноогии**
+1. HTML 5
+2. CSS 3
+  * Adaptive
+  * Flex box
+  * Grid Layout
+3. BEM
+  * Nested
+4. Accessible for people with disabilities
+***

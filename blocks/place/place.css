@@ -19,10 +19,27 @@
     /* grid-template-rows: auto; */
     gap: 48px 28px;
     max-width: calc(100% - 24px * 2);
-    margin: 0 auto 73px;
+    margin: 0 auto 74px;
   }
 
   .place:last-child {
     margin: 0 auto;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .place {
+    max-width: calc(100% - 48px * 2);
+    gap: 48px 32px;
+    margin: 0 auto 80px;
+    grid-template-columns: minmax(440px, 1fr) minmax(456px, 1fr);
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .place {
+    max-width: calc(100% - 148px * 2);
+    grid-template-columns: minmax(460px, 1fr) minmax(484px, 1fr);
+    gap: 48px 40px;
   }
 }
