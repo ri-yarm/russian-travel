@@ -1,10 +1,10 @@
 .cover__link {
   background-image: url('../../../images/cover-trains.jpg');
   background-repeat: no-repeat;
-  background-size: contain;
+  width: 100%;
+  background-size: cover;
   min-height: 200px;
   position: relative;
-  box-sizing: border-box;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -13,7 +13,6 @@
   text-decoration: none;
   color: #fff;
   z-index: 0;
-  white-space: pre-line;
 }
 
 .cover__link::before {
@@ -49,7 +48,6 @@
 @media screen and (min-width: 1280px) {
   .cover__link {
     min-height: 740px;
-    margin: 0 48px;
-
+    /* margin: 0 48px; */
   }
 }
