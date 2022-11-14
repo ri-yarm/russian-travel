@@ -4,4 +4,5 @@
   display: flex;
   justify-content: end;
   gap: 0 18px;
+  list-style-type: none;
 }
