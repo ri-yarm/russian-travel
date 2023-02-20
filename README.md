@@ -1,21 +1,20 @@
 # Проект: Путешествие по России
+***
+<br/>
 
-### Обзор
-* Интро
-* Github pages
-* Макет figma
-* Технологии
+<div align="center">
+  <img width="700" height="400" src="images/PreviewMd.gif">
+</div>
 
-**Интро**
+<br/>
+***
 
-Проект путешествия по России. Сайт путеводитель для тех кто любит путешествовать внутри своей страны.
 
-**Github pages**
+Проект *russian-travel* - путешествия по России. Сайт путеводитель для тех кто любит путешествовать внутри своей страны. Путешественник Алексей Абанин, совершил путешествие от Москвы до Байкала на **электричках**.
+
 
 * [Ссылка на Github pages](https://ri-yarm.github.io/russian-travel/)
-
-**Макет figma**
-  * [Ссылка на макет figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+* [Ссылка на макет figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
 ***
 **Техноогии**
